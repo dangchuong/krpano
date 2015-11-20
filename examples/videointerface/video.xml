@@ -9,10 +9,10 @@
 	        url.html5="%SWFPATH%/plugins/videoplayer.js"
 
 	        posterurl.ios="video-1024x512-poster.jpg"
-	        videourl.ios="R00100.mp4|video-1024x512.webm"
+	        videourl.ios="duc.mp4|duc.webm"
 
 	        posterurl.no-ios="video-1920x960-poster.jpg"
-	        videourl.no-ios="R00100.mp4|video-1920x960.webm"
+	        videourl.no-ios="duc.mp4|duc.webm"
 
 	        pausedonstart="true"
 	        loop="true"
